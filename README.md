@@ -1,4 +1,13 @@
 <p align="center">
+  <a href="https://eva.yavirac.edu.ec/" target="blank"><img src="https://yavirac.edu.ec/img/Logo%20Yavirac.png" width="200" alt="tarea" /></a>
+</p>
+
+[circleci-image]: https://th.bing.com/th/id/OIP.2l8m65UEPCUNqZNd-Vqn_QHaHa?pid=ImgDet&rs=1
+[circleci-url]: https://circleci.com/gh/nestjs/nest
+
+  <p align="center">Instituto Superior Tecnológico de Turismo y Patrimonio "Yavirac"</p>
+    <p align="center">
+<p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
 
@@ -142,3 +151,17 @@ Nest is [MIT licensed](LICENSE).
 <h2>Conclusión</h2>
 
 <p>Este proyecto tiene el potencial de mejorar la experiencia de los usuarios del sistema de préstamo de libros. La aplicación móvil permitirá a los usuarios acceder a las funcionalidades del sistema de manera más cómoda y fácil de usar.</p>
+
+<h2>Tecnologías utilizadas</h2>
+
+<p>El proyecto se desarrolla utilizando las siguientes tecnologías:</p>
+
+<ul>
+  <li>Flutter</li>
+  <li>Dart</li>
+  <li>Firebase</li>
+</ul>
+Cronograma
+![cronograma](https://github.com/darlinmel/prestamos/assets/126097668/8aed22a3-74b8-489e-a3eb-21aaa2f5e36e)
+
+
