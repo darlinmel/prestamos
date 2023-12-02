@@ -87,6 +87,42 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 Nest is [MIT licensed](LICENSE).
 
+## Instalación de Nest.js
+
+### Para instalar Nest.js, primero debes tener instalado Node.js y npm. Si no tienes Node.js instalado, puedes descargarlo e instalarlo desde el sitio web oficial de Node.js.
+
+<p Una vez que tengas Node.js instalado, puedes seguir estos pasos para instalar Nest.js:
+
+Abre una terminal o línea de comandos.
+
+### Ejecuta el siguiente comando para instalar el Nest CLI, una herramienta de línea de comandos que te ayudará a crear y administrar tus aplicaciones Nest.js:
+
+Copiar
+npm install -g @nestjs/cli
+```
+# Una vez que la instalación se complete, puedes crear una nueva aplicación Nest.js con el siguiente comando:
+
+Copiar
+nest new my-app
+```
+
+Esto creará una nueva carpeta llamada "my-app" que contendrá una aplicación Nest.js básica.
+
+### Para iniciar la aplicación Nest.js en modo de desarrollo, navega a la carpeta de tu aplicación con el siguiente comando:
+
+Copiar
+cd my-app
+```
+
+### Luego, utiliza el siguiente comando para iniciar la aplicación:
+
+Copiar
+nest start
+```
+
+Esto iniciará la aplicación Nest.js en modo de desarrollo.
+Estos son los comandos básicos para instalar y utilizar Nest.js. Puedes consultar la documentación oficial de Nest.js para obtener más información sobre cómo aprovechar al máximo esta plataforma.
+
 <title>Desarrollo de una aplicación móvil para el sistema de préstamo de libros</title>
 </head>
 <body>
@@ -167,6 +203,6 @@ Nest is [MIT licensed](LICENSE).
   <li>Firebase</li>
 </ul>
 Cronograma
-![cronograma](https://github.com/darlinmel/prestamos/assets/126097668/8aed22a3-74b8-489e-a3eb-21aaa2f5e36e)
+![cronograma](https://github.com/darlinmel/prestamos/assets/126097668/8aed22a3-74b8-489e-a3eb-21aaa2f5e36e) </p>
 
 
