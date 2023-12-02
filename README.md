@@ -16,10 +16,11 @@
 
   <p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
     <p align="center">
-
- <p align="left">
-   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
-   </p>
+<a href="https://www.devops.com/" target="_blank"><img src="https://img.shields.io/badge/DevOps-1.0-blue.svg" alt="DevOps Version" /></a>
+<a href="https://en.wikipedia.org/wiki/Backend_as_a_service" target="_blank"><img src="https://img.shields.io/badge/BOP-1.0-blue.svg" alt="BOP Version" /></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-14.2-blue.svg" alt="PostgreSQL Version" /></a>
+<a href="https://github.com/angular/angular" target="_blank"><img src="https://img.shields.io/badge/Angular-14.2.0-blue.svg" alt="Angular Version" /></a>
+<a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Flutter-2.10.4-blue.svg" alt="Flutter Version" /></a>
 <a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/v/@nestjs/core.svg" alt="NPM Version" /></a>
 <a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
 <a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/dm/@nestjs/common.svg" alt="NPM Downloads" /></a>
