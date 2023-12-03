@@ -205,8 +205,10 @@ Cronograma
 ![cronograma](https://github.com/darlinmel/prestamos/assets/126097668/8aed22a3-74b8-489e-a3eb-21aaa2f5e36e) </p>
 
 ## INTEGRANTES 
-- Royer Pineda
-- Bryan Latacumba
-- Darlin Allauca 
+```bash
+Royer Pineda
+Bryan Latacumba
+Darlin Allauca 
+```
 
 
