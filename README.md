@@ -96,12 +96,12 @@ Nest is [MIT licensed](LICENSE).
 Abre una terminal o línea de comandos.
 
 ### Ejecuta el siguiente comando para instalar el Nest CLI, una herramienta de línea de comandos que te ayudará a crear y administrar tus aplicaciones Nest.js:
-
+```
 Copiar
 npm install -g @nestjs/cli
 ```
 # Una vez que la instalación se complete, puedes crear una nueva aplicación Nest.js con el siguiente comando:
-
+```
 Copiar
 nest new my-app
 ```
@@ -109,18 +109,18 @@ nest new my-app
 Esto creará una nueva carpeta llamada "my-app" que contendrá una aplicación Nest.js básica.
 
 ### Para iniciar la aplicación Nest.js en modo de desarrollo, navega a la carpeta de tu aplicación con el siguiente comando:
-
+```
 Copiar
 cd my-app
 ```
 
 ### Luego, utiliza el siguiente comando para iniciar la aplicación:
-
+```
 Copiar
 nest start
 ```
 
-Esto iniciará la aplicación Nest.js en modo de desarrollo.
+## Esto iniciará la aplicación Nest.js en modo de desarrollo.
 Estos son los comandos básicos para instalar y utilizar Nest.js. Puedes consultar la documentación oficial de Nest.js para obtener más información sobre cómo aprovechar al máximo esta plataforma.
 
 <title>Desarrollo de una aplicación móvil para el sistema de préstamo de libros</title>
@@ -133,7 +133,7 @@ Estos son los comandos básicos para instalar y utilizar Nest.js. Puedes consult
 
 <p>La aplicación se desarrollará con una interfaz intuitiva y eficiente que permitirá a los usuarios buscar libros disponibles en la biblioteca utilizando diferentes filtros, como título, autor o género.</p>
 
-<h2>Objetivos</h2>
+## Objetivos
 
 <ul>
   <li>Desarrollar una aplicación móvil que permita a los usuarios acceder a las funcionalidades del sistema de préstamo de libros.</li>
@@ -141,7 +141,7 @@ Estos son los comandos básicos para instalar y utilizar Nest.js. Puedes consult
   <li>Brindar comodidad y facilidad de uso a los usuarios.</li>
 </ul>
 
-<h2>Metodología</h2>
+## Metodología
 
 <ol>
   <li>Recopilación de requisitos</li>
@@ -151,7 +151,7 @@ Estos son los comandos básicos para instalar y utilizar Nest.js. Puedes consult
   <li>Implementación de la aplicación</li>
 </ol>
 
-<h2>Requisitos</h2>
+## Requisitos
 
 <ul>
   <li>La aplicación debe permitir a los usuarios buscar libros disponibles en la biblioteca utilizando diferentes filtros.</li>
@@ -159,7 +159,7 @@ Estos son los comandos básicos para instalar y utilizar Nest.js. Puedes consult
   <li>La aplicación debe ser compatible con dispositivos móviles iOS y Android.</li>
 </ul>
 
-<h2>Diseño de la interfaz</h2>
+## Diseño de la interfaz
 
 <ul>
   <li>Simplicidad: la interfaz debe ser fácil de usar y comprender.</li>
@@ -167,7 +167,7 @@ Estos son los comandos básicos para instalar y utilizar Nest.js. Puedes consult
   <li>Accesibilidad: la interfaz debe ser accesible para todos los usuarios, independientemente de sus capacidades.</li>
 </ul>
 
-<h2>Desarrollo de la aplicación</h2>
+## Desarrollo de la aplicación
 
 <p>La aplicación se desarrollará utilizando el framework Flutter, que es un framework multiplataforma para el desarrollo de aplicaciones móviles.</p>
 
@@ -179,7 +179,7 @@ Estos son los comandos básicos para instalar y utilizar Nest.js. Puedes consult
   <li>Desarrollo de la interfaz de usuario</li>
 </ol>
 
-<h2>Pruebas de la aplicación</h2>
+## Pruebas de la aplicación
 
 <p>La aplicación se probará utilizando los siguientes métodos:</p>
 
@@ -189,19 +189,18 @@ Estos son los comandos básicos para instalar y utilizar Nest.js. Puedes consult
   <li>Pruebas de aceptación</li>
 </ul>
 
-<h2>Conclusión</h2>
+## Conclusión
 
 <p>Este proyecto tiene el potencial de mejorar la experiencia de los usuarios del sistema de préstamo de libros. La aplicación móvil permitirá a los usuarios acceder a las funcionalidades del sistema de manera más cómoda y fácil de usar.</p>
 
-<h2>Tecnologías utilizadas</h2>
+## Tecnologías utilizadas
 
 <p>El proyecto se desarrolla utilizando las siguientes tecnologías:</p>
 
-<ul>
-  <li>Flutter</li>
-  <li>Dart</li>
-  <li>Firebase</li>
-</ul>
+- Flutter
+- Dart
+- Firebase
+
 Cronograma
 ![cronograma](https://github.com/darlinmel/prestamos/assets/126097668/8aed22a3-74b8-489e-a3eb-21aaa2f5e36e) </p>
 
