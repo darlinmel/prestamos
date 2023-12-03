@@ -87,20 +87,20 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 Nest is [MIT licensed](LICENSE).
 
-## Instalación de Nest.js
+### Instalación de Nest.js
 
-### Para instalar Nest.js, primero debes tener instalado Node.js y npm. Si no tienes Node.js instalado, puedes descargarlo e instalarlo desde el sitio web oficial de Node.js.
+Para instalar Nest.js, primero debes tener instalado Node.js y npm. Si no tienes Node.js instalado, puedes descargarlo e instalarlo desde el sitio web oficial de Node.js.
 
 <p Una vez que tengas Node.js instalado, puedes seguir estos pasos para instalar Nest.js:
 
 Abre una terminal o línea de comandos.
 
-### Ejecuta el siguiente comando para instalar el Nest CLI, una herramienta de línea de comandos que te ayudará a crear y administrar tus aplicaciones Nest.js:
+Ejecuta el siguiente comando para instalar el Nest CLI, una herramienta de línea de comandos que te ayudará a crear y administrar tus aplicaciones Nest.js:
 ```
 Copiar
 npm install -g @nestjs/cli
 ```
-# Una vez que la instalación se complete, puedes crear una nueva aplicación Nest.js con el siguiente comando:
+Una vez que la instalación se complete, puedes crear una nueva aplicación Nest.js con el siguiente comando:
 ```
 Copiar
 nest new my-app
@@ -123,11 +123,11 @@ nest start
 ## Esto iniciará la aplicación Nest.js en modo de desarrollo.
 Estos son los comandos básicos para instalar y utilizar Nest.js. Puedes consultar la documentación oficial de Nest.js para obtener más información sobre cómo aprovechar al máximo esta plataforma.
 
-<title>Desarrollo de una aplicación móvil para el sistema de préstamo de libros</title>
-</head>
-<body>
 
-<h1>Introducción</h1>
+# Descripción de su proyecto
+## Desarrollo de una aplicación móvil para el sistema de préstamo de libros
+
+## Introducción
 
 <p>Este proyecto se enfoca en la creación de una aplicación móvil utilizando el framework Flutter, que permitirá a los usuarios acceder a las funcionalidades del sistema de préstamo de libros.</p>
 
@@ -203,5 +203,10 @@ Estos son los comandos básicos para instalar y utilizar Nest.js. Puedes consult
 
 Cronograma
 ![cronograma](https://github.com/darlinmel/prestamos/assets/126097668/8aed22a3-74b8-489e-a3eb-21aaa2f5e36e) </p>
+
+## INTEGRANTES 
+- Royer Pineda
+- Bryan Latacumba
+- Darlin Allauca 
 
 
